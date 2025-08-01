@@ -30,6 +30,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		6A8FFC3E2E3CFF9A00384405 /* docs */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = docs;
+			sourceTree = "<group>";
+		};
 		6AC163082E38ECF2005B5A1A /* Daily Inspiration */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Daily Inspiration";
@@ -75,6 +80,7 @@
 		6AC162FD2E38ECF2005B5A1A = {
 			isa = PBXGroup;
 			children = (
+				6A8FFC3E2E3CFF9A00384405 /* docs */,
 				6AC163082E38ECF2005B5A1A /* Daily Inspiration */,
 				6AC163182E38ECF3005B5A1A /* Daily InspirationTests */,
 				6AC163222E38ECF3005B5A1A /* Daily InspirationUITests */,
@@ -108,6 +114,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				6A8FFC3E2E3CFF9A00384405 /* docs */,
 				6AC163082E38ECF2005B5A1A /* Daily Inspiration */,
 			);
 			name = "Daily Inspiration";
